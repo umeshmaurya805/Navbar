@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=Lora:ital@1&display=swap" rel="stylesheet');
+.nav-list li:hover{
+    border-bottom: 2px solid orange;
+}
+.nav-list{
+    display: flex;
+    font-size: 1em;
+    align-items: center;
+    justify-content: space-evenly;
+
+}
+.nav-list li{
+    list-style: none;
+    cursor: pointer;
+    padding: 10px;
+    border: none;
+    font-family: 'Lora', serif;
+
+    
+}

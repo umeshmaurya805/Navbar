@@ -1,0 +1,9 @@
+@import url('https://fonts.googleapis.com/css?family=Josefin+Sans');
+
+.logo{
+    font-family: 'Josefin Sans', cursive;
+
+    cursor: pointer;
+    padding: 10px;
+    font-size: 1em;
+}
