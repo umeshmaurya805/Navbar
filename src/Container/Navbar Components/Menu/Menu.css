@@ -32,7 +32,7 @@
     transition: 2s;
 
 }
-.nav-list li:hover{
+.show li:hover{
     border: none;
     background-color: rgb(211, 211, 211);
 }
