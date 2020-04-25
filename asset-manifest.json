@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/navbar/static/css/main.72d98977.chunk.css",
+    "main.css": "/navbar/static/css/main.02816776.chunk.css",
     "main.js": "/navbar/static/js/main.b1afacbf.chunk.js",
     "main.js.map": "/navbar/static/js/main.b1afacbf.chunk.js.map",
     "runtime-main.js": "/navbar/static/js/runtime-main.4ed3bbab.js",
@@ -8,15 +8,15 @@
     "static/js/2.76bf738e.chunk.js": "/navbar/static/js/2.76bf738e.chunk.js",
     "static/js/2.76bf738e.chunk.js.map": "/navbar/static/js/2.76bf738e.chunk.js.map",
     "index.html": "/navbar/index.html",
-    "precache-manifest.414b8a7e8c462a2ea1db6a80b8709f6e.js": "/navbar/precache-manifest.414b8a7e8c462a2ea1db6a80b8709f6e.js",
+    "precache-manifest.e3ccb20dcb2c4b030d444d64bddf25ca.js": "/navbar/precache-manifest.e3ccb20dcb2c4b030d444d64bddf25ca.js",
     "service-worker.js": "/navbar/service-worker.js",
-    "static/css/main.72d98977.chunk.css.map": "/navbar/static/css/main.72d98977.chunk.css.map",
+    "static/css/main.02816776.chunk.css.map": "/navbar/static/css/main.02816776.chunk.css.map",
     "static/js/2.76bf738e.chunk.js.LICENSE.txt": "/navbar/static/js/2.76bf738e.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.4ed3bbab.js",
     "static/js/2.76bf738e.chunk.js",
-    "static/css/main.72d98977.chunk.css",
+    "static/css/main.02816776.chunk.css",
     "static/js/main.b1afacbf.chunk.js"
   ]
 }
