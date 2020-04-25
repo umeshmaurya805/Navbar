@@ -4,6 +4,23 @@
     font-family: 'Josefin Sans', cursive;
 
     cursor: pointer;
-    padding: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding-left: 10px;
     font-size: 1em;
+}
+
+.bars{
+    display: none;
+    padding: 20px;
+}
+@media only screen  and (max-width:890px){
+.logo{
+    font-size: .7em;
+}
+.bars{
+    display: block
+}
+
 }

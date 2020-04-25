@@ -1,6 +1,10 @@
 import React from 'react';
 import './Menu.css';
+import { useSelector } from 'react-redux';
+
 const Menu=()=>{
+const showList = useSelector(state=>state.show)
+    const show=showList?"show":"nav-list";
     const menuList=[{
         title:"Home",
         link:'',
@@ -23,9 +27,9 @@ const Menu=()=>{
 
     })
     return(
-        <div className="nav-list">
+        <div className={show} >
           {Menu}        
         </div>
     )  
   }
-  export default Menu;
+  export default (Menu);

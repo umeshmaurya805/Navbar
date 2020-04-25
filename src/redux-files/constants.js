@@ -1,1 +1,1 @@
-export const SEARCH_CLICK='SEARCH_CLICK';
+export const SHOW_MENU='SHOW_MENU';

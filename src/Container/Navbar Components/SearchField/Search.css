@@ -1,23 +1,22 @@
-.search {
-    display: flex;
-    width: 30%;
-    justify-content: flex-end;
-    align-items: center;
-    cursor: pointer;
-    font-size: 1.2em;
-}
 
-.hide,.show{
-    width: 0%;
-    margin: 5px;
-    margin-left: 25px;
-    transition: 2s;
+    .search-bar{
+        display: flex;
+        align-items: center;
+        padding: 10px;
+    }
+    .search-bar input{
+        
     padding: 10px;
-    outline: none;
-    border: none;
-}
-.show{
-    width: 300px;
-    border: solid 1px black;
+    border: solid 2px black;
+    width: 20vw;
+    margin-right: 10px;
     
-}
+    }
+
+    @media only screen  and (max-width:890px){
+        .search-bar input{
+            width: 85vw;
+            
+        }
+
+    }

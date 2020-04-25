@@ -1,6 +1,6 @@
-import {SEARCH_CLICK} from './constants';
-export const search_click =()=>{
+import {SHOW_MENU} from './constants';
+export const bars_click =()=>{
     return{
-        type: SEARCH_CLICK
+        type: SHOW_MENU
     }
 }
