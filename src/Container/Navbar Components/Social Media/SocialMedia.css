@@ -22,7 +22,7 @@
     list-style: none;
 }
 
-@media only screen  and (max-width:890px){
+@media only screen  and (max-width:1000px){
     .contact{
         display: none;
     }
